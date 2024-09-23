@@ -1,0 +1,38 @@
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# 편집기/IDE 관련 파일
+.vscode/
+.idea/
+*.swp
+*~
+
+# 임시 파일
+*.tmp
+*.bak
+
+# 로그 파일
+*.log
+
+# 개인 설정 파일 (예: API 키 등)
+.env
+
+# 컴파일된 바이너리
+*.exe
+*.out
+*.o
+
+# 파이썬 관련 (나중에 파이썬 스크립트를 사용할 경우)
+__pycache__/
+*.py[cod]
+*.so
+
+# Node.js 관련 (나중에 웹 기반 예제를 다룰 경우)
+node_modules/
+npm-debug.log
+
+# 기타 불필요한 파일
+*.bak
+*.swp
+*.swo
